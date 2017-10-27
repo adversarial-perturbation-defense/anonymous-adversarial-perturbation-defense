@@ -1,1 +1,1 @@
-# anonymous-adversarial-perturbation-defense
+# Anonymous code release for adversarial perturbation defense
