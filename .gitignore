@@ -1,0 +1,6 @@
+# Python intermediate files
+*.pyc
+*.py~
+
+# Temporary files
+*.swp
